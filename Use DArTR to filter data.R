@@ -5,7 +5,6 @@
 install.packages("dartR") 
 library(dartR)
 
-
 #============================
 #  Set working directory
 #============================
